@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#FFEB3B</color>
+    <color name="fondo_amarillo_claro">#FFFDE7</color>
+    <color name="texto_negro">#FF000000</color>
+    <color name="bee_yellow">#FFD700</color>
+    <color name="primaryDark">#212121</color>
+    <color name="gold">#FFD700</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="bronze">#CD7F32</color>
+    <color name="gray">#808080</color>
+    <color name="beige_warm">#D4C18A</color>
+    <color name="bg_highlighted_user">#E3F2FD</color>
+</resources>

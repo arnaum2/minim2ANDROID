@@ -1,0 +1,1 @@
+Implementat correctament tot el que ens demana exercici. Pantalla activity_issure_report que te data, titol, sender i cos de text. S'envia amb metode post. 

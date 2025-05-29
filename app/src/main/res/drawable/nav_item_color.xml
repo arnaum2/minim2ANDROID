@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Gris cuando está seleccionado -->
+    <item android:color="@color/gray" android:state_checked="true"/>
+    <!-- Negro por defecto -->
+    <item android:color="@color/texto_negro"/>
+</selector>

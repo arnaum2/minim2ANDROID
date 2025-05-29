@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BuzzBlitz_Android_Cliente</string>
+    <string-array name="security_questions">
+        <item>What was the name of your first pet?</item>
+        <item>What city was your mother born in?</item>
+        <item>What is your favorite movie?</item>
+        <item>What is your mother’s maiden name?</item>
+        <item>What was the name of your elementary school?</item>
+        <item>What is your favorite food?</item>
+        <item>What was the make of your first car?</item>
+        <item>What is your fathers middle name?</item>
+        <item>What is your favorite video game?</item>
+        <item>What was your childhood nickname?</item>
+        <item>What is the name of your best friend from childhood?</item>
+        <item>In what city did your parents meet?</item>
+        <item>What is the name of your first teacher?</item>
+        <item>What was your dream job as a child?</item>
+        <item>What was the name of your first boyfriend or girlfriend?</item>
+        <item>What is the name of your favorite book?</item>
+        <item>What was your first job?</item>
+        <item>What is the name of your favorite sports team?</item>
+        <item>What street did you grow up on?</item>
+        <item>What was the name of your first school?</item>
+    </string-array>
+    <string name="sin_items">SIN ITEMS</string>
+</resources>

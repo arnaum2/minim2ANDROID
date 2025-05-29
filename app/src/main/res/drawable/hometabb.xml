@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true">
+        <layer-list>
+            <!-- Círculo gris de fondo -->
+            <item>
+                <shape android:shape="oval">
+                    <solid android:color="@color/gray"/>
+                    <size android:width="24dp" android:height="24dp"/>
+                </shape>
+            </item>
+            <!-- Ícono del trofeo (ajusta el nombre del drawable) -->
+            <item android:drawable="@drawable/hometab" android:gravity="center"/>
+        </layer-list>
+    </item>
+    <!-- Estado no seleccionado -->
+    <item android:drawable="@drawable/hometab"/>
+</selector>

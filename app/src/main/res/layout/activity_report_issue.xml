@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp"
+            android:padding="12dp"
+            android:hint="Data (YYYY-MM-DD HH:MM)"
+            android:inputType="datetime" />
+
+        <EditText
+            android:id="@+id/titol"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp"
+            android:padding="12dp"
+            android:hint="Titol"
+            android:inputType="textPersonName"
+            android:layout_marginTop="16dp"/>
+        <EditText
+            android:id="@+id/sender"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp"
+            android:padding="12dp"
+            android:hint="Usuari que denuncia"
+            android:inputType="textPersonName"
+            android:layout_marginTop="16dp"/>
+
+        <EditText
+            android:id="@+id/message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp"
+            android:padding="12dp"
+            android:hint="Missatge de la denúncia"
+            android:inputType="textMultiLine"
+            android:minLines="4"
+            android:gravity="top"
+            android:layout_marginTop="16dp"/>
+
+        <Button
+            android:id="@+id/btnReportIssue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Enviar denúncia"
+            android:layout_marginTop="24dp"/>
+
+        <Button
+            android:id="@+id/enrere1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Enrere"
+            android:layout_marginTop="8dp"/>
+
+    </LinearLayout>
+</ScrollView>
